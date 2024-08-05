@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Farnam, I love technology except the phone. I am currently a web developer and have experience in front-end and back-end<br>
+Hello, my name is Farnam 👋 I am a software developer with a strong will to learn, research new technologies and design software architecture. I like to create practical business solutions and make development processes as efficient as possible.<br>
 
 
 ## 🌐 Socials:
