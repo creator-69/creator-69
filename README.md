@@ -1,11 +1,7 @@
 # 💫 About Me:
 Hello, my name is Farnam 👋 I am a software developer with a strong will to learn, research new technologies and design software architecture. I like to create practical business solutions and make development processes as efficient as possible.<br>
 
-<p align="center">
-  <img
-src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-</p>
-
+<div align="center"><img width="100%" height="350px" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif"></div>
 
 
 ## 🌐 Socials:
