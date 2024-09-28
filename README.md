@@ -1,9 +1,6 @@
 # 💫 About Me:
 Hello, my name is Farnam 👋 I am a software developer with a strong will to learn, research new technologies and design software architecture. I like to create practical business solutions and make development processes as efficient as possible.<br>
 
-<div align="center"><img width="100%" height="350px" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif"></div>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.farnam69) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Creator) 
 
