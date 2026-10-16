@@ -1,9 +1,9 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,30:111111,70:FF6B00,100:000000&text=FARNAM&fontColor=FFFFFF&fontSize=82&fontAlignY=45&stroke=FF6B00&strokeWidth=1&animation=twinkling&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=14&descAlignY=65" width="100%" alt="Farnam — Animated black and orange header"/>
 
 <a href="https://github.com/creator-69">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Computer+Science+Student;Software+%26+Systems+Enthusiast;Learning.+Building.+Evolving.;Back+on+GitHub." alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Computer+Science+Student;Software+%26+Systems+Enthusiast;Learning.+Building.+Evolving.;Turning+Ideas+Into+Projects." alt="Animated introduction"/>
 </a>
 
 <br/>
@@ -11,8 +11,8 @@
 <a href="https://github.com/creator-69?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-FF6B00?style=for-the-badge&logo=github&logoColor=000000" alt="Explore repositories"/>
 </a>
-<a href="https://github.com/creator-69?tab=stars">
-  <img src="https://img.shields.io/badge/STARRED-PROJECTS-171717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Starred projects"/>
+<a href="https://github.com/creator-69/technopath-nexus">
+  <img src="https://img.shields.io/badge/FEATURED-TECHNOPATH%20NEXUS-171717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Featured project: Technopath Nexus"/>
 </a>
 
 <br/><br/>
@@ -28,14 +28,14 @@
 ```text
 NAME       : Farnam
 FIELD      : Computer Science
-INTERESTS  : Software / Systems / Networking
+INTERESTS  : Software / Systems / Networking / Digital Tools
 MINDSET    : Understand → Build → Improve
-STATUS     : Writing the next chapter
+STATUS     : Learning by shipping real projects
 ```
 
-I'm interested in the engineering behind the interfaces, the logic behind the applications, and the systems that make everything work.
+I'm interested in the engineering behind interfaces, the logic behind applications, and the systems that make everything work.
 
-My goal isn't simply to learn how to use technology. It's to understand how it works, experiment with it, and gradually turn that understanding into things worth building.
+My goal isn't simply to learn how to use technology. It's to understand how it works, experiment with it, and turn that understanding into useful projects.
 
 This profile is my digital workshop — a growing collection of experiments, projects, ideas, and lessons learned along the way.
 
@@ -49,6 +49,7 @@ This profile is my digital workshop — a growing collection of experiments, pro
 <img src="https://img.shields.io/badge/02-COMPUTER_SYSTEMS-FFFFFF?style=flat-square&labelColor=222222" alt="Computer systems"/>
 <img src="https://img.shields.io/badge/03-NETWORKING-FF6B00?style=flat-square" alt="Networking"/>
 <img src="https://img.shields.io/badge/04-CYBERSECURITY-FFFFFF?style=flat-square&labelColor=222222" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/05-SEO_%26_MARKETING_TOOLS-FF6B00?style=flat-square" alt="SEO and marketing tools"/>
 
 </div>
 
@@ -58,11 +59,38 @@ This profile is my digital workshop — a growing collection of experiments, pro
 | Backend | Application logic, APIs, and data flow |
 | Networking | Protocols, infrastructure, and connectivity |
 | Cybersecurity | Understanding vulnerabilities and system security |
+| Digital tools | Building practical tools for real workflows |
 | Problem solving | Breaking complex problems into smaller pieces |
 
 *The direction is evolving. The objective is to keep learning and make tangible progress.*
 
-## `03` — THE TOOLBOX
+## `03` — FEATURED PROJECT
+
+<div align="center">
+
+<a href="https://github.com/creator-69/technopath-nexus">
+  <img src="https://img.shields.io/badge/TECHNOPATH-NEXUS-FF6B00?style=for-the-badge&logo=github&logoColor=000000" alt="Technopath Nexus"/>
+</a>
+
+### Technopath Nexus — Digital Marketing Intelligence
+
+A local-first marketing workspace designed to bring several practical workflows together:
+
+- **SEO CSV Analyzer** — surface potential opportunities from search performance exports.
+- **Campaign Studio** — build consistent URLs with UTM parameters.
+- **Conversion Calculator** — calculate conversion rate, CPA, and ROAS.
+- **Reports API** — save reports and work with structured JSON data.
+- **Dark, responsive interface** — a black-and-violet dashboard built with HTML, CSS, and JavaScript.
+
+**Stack:** Python · FastAPI · SQLite · Vanilla JavaScript
+
+[Explore the repository →](https://github.com/creator-69/technopath-nexus)
+
+</div>
+
+This project reflects how I like to learn: combine technical fundamentals with a real use case, build a working foundation, and improve it step by step.
+
+## `04` — THE TOOLBOX
 
 <div align="center">
 
@@ -80,7 +108,7 @@ I treat every technology as a tool, not a trophy. The focus is on understanding 
 
 > A growing toolkit beats a static list of buzzwords.
 
-## `04` — LIVE FROM GITHUB
+## `05` — LIVE FROM GITHUB
 
 <div align="center">
 
@@ -94,7 +122,7 @@ I treat every technology as a tool, not a trophy. The focus is on understanding 
 
 <sub>Statistics are provided by third-party services. Some metrics may differ from GitHub's own contribution graph.</sub>
 
-## `05` — THE WORKBENCH
+## `06` — THE WORKBENCH
 
 Not every experiment needs to become a product. Some projects exist to explore an idea; others are built to solve a real problem.
 
@@ -113,7 +141,7 @@ This is where those experiments belong.
 
 </div>
 
-## `06` — ENGINEERING PRINCIPLES
+## `07` — ENGINEERING PRINCIPLES
 
 <div align="center">
 
@@ -138,7 +166,7 @@ I believe consistency matters more than appearances, fundamentals matter more th
 
 The objective is simple: make the next thing better than the last.
 
-## `07` — BEYOND THE SCREEN
+## `08` — BEYOND THE SCREEN
 
 Technology is a field of constant change. Staying curious means exploring beyond familiar tools, questioning assumptions, and being willing to start from zero when necessary.
 
@@ -146,11 +174,11 @@ I'm interested in ideas that combine technical depth with practical value — so
 
 **Build to understand. Learn to build better.**
 
-## `08` — OPEN CHANNEL
+## `09` — OPEN CHANNEL
 
 Have an interesting project, a technical idea, or something worth discussing?
 
-Feel free to explore my repositories and reach out through GitHub.
+Feel free to explore my repositories and connect through GitHub.
 
 <div align="center">
 
@@ -161,8 +189,5 @@ Feel free to explore my repositories and reach out through GitHub.
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF6B00&section=footer" width="100%" alt="Orange divider"/>
-
-<br/>
-
 
 </div>
