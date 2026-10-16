@@ -20,23 +20,19 @@ I'm interested in software development, networking, and how useful tools are des
 
 ## Selected projects
 
-| Project | What it is | Status |
+| Project | What it does | Status |
 |---|---|---|
-| [Technopath Nexus](https://github.com/creator-69/technopath-nexus) | Local-first marketing workspace with an SEO CSV analyzer, UTM link builder, conversion calculations, and a FastAPI/SQLite reports API | MVP starter; see repository notes before deployment |
-| [RomanToInteger](https://github.com/creator-69/RomanToInteger) | Practice project named around Roman numeral conversion | Learning project |
-| [TO_DO_list](https://github.com/creator-69/TO_DO_list) | To-do list practice project | Learning project |
-| [book-library](https://github.com/creator-69/book-library) | Book-library practice project | Learning project |
-| [shop-creator](https://github.com/creator-69/shop-creator) | Shop-themed practice project | Learning project |
-
-Project descriptions are intentionally brief; each repository should be the source of truth for its implementation and setup instructions.
+| [Technopath Nexus](https://github.com/creator-69/technopath-nexus) | FastAPI/SQLite marketing dashboard for SEO CSV analysis, UTM campaign links, conversion metrics, and saved reports | MVP starter |
+| [RomanToInteger](https://github.com/creator-69/RomanToInteger) | Python solution that converts Roman numeral strings using a lookup table and two-character subtractive pairs such as IV and IX | Learning exercise |
+| [TO_DO_list](https://github.com/creator-69/TO_DO_list) | Python terminal app to add, list, and delete tasks using a menu-driven loop and an in-memory list | Learning exercise |
+| [book-library](https://github.com/creator-69/book-library) | Python OOP exercise with book and user classes plus a library class for adding, borrowing, and returning books | Learning exercise |
+| [shop-creator](https://github.com/creator-69/shop-creator) | HTML/CSS/JavaScript storefront concept with a product-style landing page, image slideshow, and a separate login page | Frontend practice |
 
 ## Tools and topics
 
-- **Programming:** Python, C#, PHP, HTML, CSS — learning and practicing
+- **Programming:** Python, C#, PHP, HTML, CSS
 - **Tools:** Git, GitHub, VS Code
 - **Topics I'm exploring:** backend development, networking, software design, and security fundamentals
-
-These are learning areas, not claims of professional-level expertise.
 
 ## What I'm working on
 
