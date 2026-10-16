@@ -1,193 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,30:111111,70:FF6B00,100:000000&text=FARNAM&fontColor=FFFFFF&fontSize=82&fontAlignY=45&stroke=FF6B00&strokeWidth=1&animation=twinkling&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=14&descAlignY=65" width="100%" alt="Farnam — Animated black and orange header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:080808,55:171717,100:FF6B00&text=FARNAM&fontColor=FFFFFF&fontSize=78&fontAlignY=45&stroke=FF6B00&strokeWidth=1&desc=SOFTWARE%20%7C%20SYSTEMS%20%7C%20BUILDING&descSize=13&descAlignY=66" width="100%" alt="Farnam — black and orange banner"/>
 
-<a href="https://github.com/creator-69">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Computer+Science+Student;Software+%26+Systems+Enthusiast;Learning.+Building.+Evolving.;Turning+Ideas+Into+Projects." alt="Animated introduction"/>
-</a>
+**Computer Science Student · Learning by building**
 
-<br/>
-
-<a href="https://github.com/creator-69?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-FF6B00?style=for-the-badge&logo=github&logoColor=000000" alt="Explore repositories"/>
-</a>
-<a href="https://github.com/creator-69/technopath-nexus">
-  <img src="https://img.shields.io/badge/FEATURED-TECHNOPATH%20NEXUS-171717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Featured project: Technopath Nexus"/>
-</a>
-
-<br/><br/>
-
-**LESS NOISE. MORE BUILDING.**
+[Repositories](https://github.com/creator-69?tab=repositories) · [Featured project: Technopath Nexus](https://github.com/creator-69/technopath-nexus)
 
 </div>
 
 ---
 
-## `01` — THE PERSON BEHIND THE CODE
+## About
 
-```text
-NAME       : Farnam
-FIELD      : Computer Science
-INTERESTS  : Software / Systems / Networking / Digital Tools
-MINDSET    : Understand → Build → Improve
-STATUS     : Learning by shipping real projects
-```
+I'm Farnam, a computer science student building practical projects while developing my foundations in programming and computer systems.
 
-I'm interested in the engineering behind interfaces, the logic behind applications, and the systems that make everything work.
+I'm interested in software development, networking, and how useful tools are designed and implemented. I use my repositories to document what I've built, what I'm learning, and what I want to improve next.
 
-My goal isn't simply to learn how to use technology. It's to understand how it works, experiment with it, and turn that understanding into useful projects.
+> **Current approach:** build small, understand the fundamentals, document honestly, then iterate.
 
-This profile is my digital workshop — a growing collection of experiments, projects, ideas, and lessons learned along the way.
+## Selected projects
 
-**Curiosity is the starting point. Building is the proof.**
+| Project | What it is | Status |
+|---|---|---|
+| [Technopath Nexus](https://github.com/creator-69/technopath-nexus) | Local-first marketing workspace with an SEO CSV analyzer, UTM link builder, conversion calculations, and a FastAPI/SQLite reports API | MVP starter; see repository notes before deployment |
+| [RomanToInteger](https://github.com/creator-69/RomanToInteger) | Practice project named around Roman numeral conversion | Learning project |
+| [TO_DO_list](https://github.com/creator-69/TO_DO_list) | To-do list practice project | Learning project |
+| [book-library](https://github.com/creator-69/book-library) | Book-library practice project | Learning project |
+| [shop-creator](https://github.com/creator-69/shop-creator) | Shop-themed practice project | Learning project |
 
-## `02` — CURRENT DIRECTION
+Project descriptions are intentionally brief; each repository should be the source of truth for its implementation and setup instructions.
 
-<div align="center">
+## Tools and topics
 
-<img src="https://img.shields.io/badge/01-SOFTWARE_DEVELOPMENT-FF6B00?style=flat-square" alt="Software development"/>
-<img src="https://img.shields.io/badge/02-COMPUTER_SYSTEMS-FFFFFF?style=flat-square&labelColor=222222" alt="Computer systems"/>
-<img src="https://img.shields.io/badge/03-NETWORKING-FF6B00?style=flat-square" alt="Networking"/>
-<img src="https://img.shields.io/badge/04-CYBERSECURITY-FFFFFF?style=flat-square&labelColor=222222" alt="Cybersecurity"/>
-<img src="https://img.shields.io/badge/05-SEO_%26_MARKETING_TOOLS-FF6B00?style=flat-square" alt="SEO and marketing tools"/>
+- **Programming:** Python, C#, PHP, HTML, CSS — learning and practicing
+- **Tools:** Git, GitHub, VS Code
+- **Topics I'm exploring:** backend development, networking, software design, and security fundamentals
 
-</div>
+These are learning areas, not claims of professional-level expertise.
 
-| Area | What interests me |
-|:--|:--|
-| Software | Writing useful, maintainable code |
-| Backend | Application logic, APIs, and data flow |
-| Networking | Protocols, infrastructure, and connectivity |
-| Cybersecurity | Understanding vulnerabilities and system security |
-| Digital tools | Building practical tools for real workflows |
-| Problem solving | Breaking complex problems into smaller pieces |
+## What I'm working on
 
-*The direction is evolving. The objective is to keep learning and make tangible progress.*
+- Making project documentation accurate and easy to follow
+- Improving code organization and practical implementation
+- Building a more substantial project with clear setup instructions and tests
 
-## `03` — FEATURED PROJECT
+## Principles
 
-<div align="center">
+- Prefer working examples over unsupported claims.
+- Explain how a project runs, not just what it is called.
+- Learn from feedback and improve in small, verifiable steps.
 
-<a href="https://github.com/creator-69/technopath-nexus">
-  <img src="https://img.shields.io/badge/TECHNOPATH-NEXUS-FF6B00?style=for-the-badge&logo=github&logoColor=000000" alt="Technopath Nexus"/>
-</a>
-
-### Technopath Nexus — Digital Marketing Intelligence
-
-A local-first marketing workspace designed to bring several practical workflows together:
-
-- **SEO CSV Analyzer** — surface potential opportunities from search performance exports.
-- **Campaign Studio** — build consistent URLs with UTM parameters.
-- **Conversion Calculator** — calculate conversion rate, CPA, and ROAS.
-- **Reports API** — save reports and work with structured JSON data.
-- **Dark, responsive interface** — a black-and-violet dashboard built with HTML, CSS, and JavaScript.
-
-**Stack:** Python · FastAPI · SQLite · Vanilla JavaScript
-
-[Explore the repository →](https://github.com/creator-69/technopath-nexus)
-
-</div>
-
-This project reflects how I like to learn: combine technical fundamentals with a real use case, build a working foundation, and improve it step by step.
-
-## `04` — THE TOOLBOX
+---
 
 <div align="center">
 
-### Languages & Development
-
-<img src="https://skillicons.dev/icons?i=python,cs,php,html,css&theme=dark" alt="Programming and web technologies"/>
-
-### Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux&theme=dark" alt="Development tools and operating systems"/>
-
-</div>
-
-I treat every technology as a tool, not a trophy. The focus is on understanding the fundamentals, knowing when a tool makes sense, and learning how to use it effectively.
-
-> A growing toolkit beats a static list of buzzwords.
-
-## `05` — LIVE FROM GITHUB
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=creator-69&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=F2F2F2&rank_icon=github&include_all_commits=true" width="80%" alt="GitHub contribution and repository statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creator-69&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&text_color=F2F2F2&langs_count=8" width="100%" alt="Programming language statistics"/>
-
-<img src="https://streak-stats.demolab.com?user=creator-69&hide_border=true&background=0D0D0D&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=F2F2F2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="80%" alt="GitHub contribution streak"/>
-
-</div>
-
-<sub>Statistics are provided by third-party services. Some metrics may differ from GitHub's own contribution graph.</sub>
-
-## `06` — THE WORKBENCH
-
-Not every experiment needs to become a product. Some projects exist to explore an idea; others are built to solve a real problem.
-
-This is where those experiments belong.
-
-- **Projects** — practical applications and experiments.
-- **Learning** — concepts explored through code.
-- **Documentation** — notes and resources worth keeping.
-- **Case studies** — what worked, what failed, and what changed.
-
-<div align="center">
-
-<a href="https://github.com/creator-69?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-FF6B00?style=for-the-badge&logo=github&logoColor=000000" alt="View all projects"/>
-</a>
-
-</div>
-
-## `07` — ENGINEERING PRINCIPLES
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-UNDERSTAND_THE_WHY-171717?style=for-the-badge&labelColor=FF6B00" alt="Understand the why"/>
-<img src="https://img.shields.io/badge/02-BUILD_WITH_PURPOSE-171717?style=for-the-badge&labelColor=FF6B00" alt="Build with purpose"/>
-<img src="https://img.shields.io/badge/03-LEARN_FROM_FAILURE-171717?style=for-the-badge&labelColor=FF6B00" alt="Learn from failure"/>
-<img src="https://img.shields.io/badge/04-KEEP_IT_EVOLVING-171717?style=for-the-badge&labelColor=FF6B00" alt="Keep it evolving"/>
-
-</div>
-
-```python
-def improve(skill, effort, feedback):
-    while skill.has_room_to_grow:
-        effort.practice(skill)
-        feedback.review(skill)
-        skill = skill.refine()
-
-    return skill
-```
-
-I believe consistency matters more than appearances, fundamentals matter more than shortcuts, and a finished project teaches lessons that tutorials alone cannot.
-
-The objective is simple: make the next thing better than the last.
-
-## `08` — BEYOND THE SCREEN
-
-Technology is a field of constant change. Staying curious means exploring beyond familiar tools, questioning assumptions, and being willing to start from zero when necessary.
-
-I'm interested in ideas that combine technical depth with practical value — software that solves problems, systems that work reliably, and projects that demonstrate genuine understanding.
-
-**Build to understand. Learn to build better.**
-
-## `09` — OPEN CHANNEL
-
-Have an interesting project, a technical idea, or something worth discussing?
-
-Feel free to explore my repositories and connect through GitHub.
-
-<div align="center">
-
-<a href="https://github.com/creator-69">
-  <img src="https://img.shields.io/badge/GITHUB-CREATOR--69-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=FF6B00" alt="Visit Farnam on GitHub"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF6B00&section=footer" width="100%" alt="Orange divider"/>
+[Explore all repositories →](https://github.com/creator-69?tab=repositories)
 
 </div>
