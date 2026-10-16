@@ -164,8 +164,5 @@ Feel free to explore my repositories and reach out through GitHub.
 
 <br/>
 
-**`LESS TALK. BETTER CODE.`**
-
-<sub>Designed in black and white. Defined by curiosity. Accented in orange.</sub>
 
 </div>
