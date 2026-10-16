@@ -84,11 +84,11 @@ I treat every technology as a tool, not a trophy. The focus is on understanding 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=creator-69&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=F2F2F2&rank_icon=github&include_all_commits=true" width="100%" alt="GitHub contribution and repository statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=creator-69&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=F2F2F2&rank_icon=github&include_all_commits=true" width="80%" alt="GitHub contribution and repository statistics"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creator-69&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&text_color=F2F2F2&langs_count=8" width="100%" alt="Programming language statistics"/>
 
-<img src="https://streak-stats.demolab.com?user=creator-69&hide_border=true&background=0D0D0D&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=F2F2F2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="100%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=creator-69&hide_border=true&background=0D0D0D&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=F2F2F2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="80%" alt="GitHub contribution streak"/>
 
 </div>
 
