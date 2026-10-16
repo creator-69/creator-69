@@ -1,27 +1,101 @@
-# 💫 About Me:
-Hello, my name is Farnam 👋 I am a software developer with a strong will to learn, research new technologies and design software architecture. I like to create practical business solutions and make development processes as efficient as possible.<br>
+![Midnight Banner](https://capsule-render.vercel.app/api?type=waving&color=0:09090B,45:3B0764,100:7C3AED&height=220&section=header&text=FARNAM&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20BEYOND%20THE%20OBVIOUS&descAlignY=58&descSize=14&animation=fadeIn)
 
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=header"/>
-</a>
+<div align="center">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Farnam;A+Backend+developer(Django);Nice+to+meet+you!&center=true&size=26&color=821FF7&background=FFFFFF00">
-  </a>
-</h1>
+# `> hello, world.`
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.farnam69) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Creator) 
+**Computer Science Student · Developer in Progress · Tech Enthusiast**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=creator-69&theme=omni&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=creator-69&theme=omni&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=creator-69&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+*I don't chase the hype. I build, experiment, break things, and learn.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/creator-69)
+[![Profile Views](https://komarev.com/ghpvc/?username=creator-69&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/creator-69)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=creator-69&icon=9&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### `01` — WHO AM I?
+
+```python
+class Farnam:
+    def __init__(self):
+        self.role = "Computer Science Student"
+        self.interests = [
+            "Software Development",
+            "Networking & Cybersecurity",
+            "Backend Engineering",
+            "Problem Solving",
+        ]
+        self.mindset = "Learn. Build. Iterate."
+        self.status = "Back on GitHub."
+
+    def next_step(self):
+        return "Turn ideas into working software."
+
+
+me = Farnam()
+```
+
+I'm interested in understanding how technology works under the hood — from writing code and building applications to exploring networks and the systems that power them.
+
+This profile is my evolving workspace: a place for experiments, projects, ideas, and everything I learn along the way.
+
+### `02` — THE TOOLKIT
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+*Currently exploring, practicing, and expanding my toolkit. Always more to learn.*
+
+### `03` — GITHUB ACTIVITY
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=creator-69&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=8B5CF6&text_color=E4E4E7&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=creator-69&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=creator-69&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E4E4E7&dates=71717A)
+
+</div>
+
+### `04` — THE PHILOSOPHY
+
+> Build things worth using.
+>
+> Understand what you build.
+>
+> Never stop being curious.
+
+I believe the best way to learn technology is to get your hands dirty, solve real problems, and keep showing up — even when the code refuses to cooperate.
+
+### `05` — CONNECT
+
+<div align="center">
+
+**Got an interesting idea? Let's build something.**
+
+[![GitHub](https://img.shields.io/badge/Explore_my_repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/creator-69?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+*Quietly learning. Consistently building. Always evolving.*
+
+**`return 0;`**
+
+</div>
