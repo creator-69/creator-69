@@ -30,7 +30,7 @@ I'm interested in software development, networking, and how useful tools are des
 
 ## Tools and topics
 
-- **Programming:** Python, C#, PHP, HTML, CSS
+- **Programming:** Python, JavaScript, HTML, CSS
 - **Tools:** Git, GitHub, VS Code
 - **Topics I'm exploring:** backend development, networking, software design, and security fundamentals
 
