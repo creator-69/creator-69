@@ -28,7 +28,6 @@ I'm interested in software development, networking, and how useful tools are des
 
 | Project | What it does | Status |
 |---|---|---|
-| [Technopath Nexus](https://github.com/creator-69/technopath-nexus) | FastAPI/SQLite marketing dashboard for SEO CSV analysis, UTM campaign links, conversion metrics, and saved reports | MVP starter |
 | [RomanToInteger](https://github.com/creator-69/RomanToInteger) | Python solution that converts Roman numeral strings using a lookup table and two-character subtractive pairs such as IV and IX | Learning exercise |
 | [TO_DO_list](https://github.com/creator-69/TO_DO_list) | Python terminal app to add, list, and delete tasks using a menu-driven loop and an in-memory list | Learning exercise |
 | [book-library](https://github.com/creator-69/book-library) | Python OOP exercise with book and user classes plus a library class for adding, borrowing, and returning books | Learning exercise |
