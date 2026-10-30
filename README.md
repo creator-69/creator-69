@@ -6,7 +6,7 @@
 
 <a href="https://github.com/creator-69?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-161B22?style=flat-square&logo=github&logoColor=FF6B00" alt="Repositories"/></a>
 &nbsp;
-<a href="https://github.com/creator-69/creater"><img src="https://img.shields.io/badge/FEATURED_PROJECT-161B22?style=flat-square&logo=fastapi&logoColor=FF6B00" alt="Featured project"/></a>
+<a href="https://github.com/creator-69/creater"><img src="https://img.shields.io/badge/FEATURED_PROJECT-161B22?style=flat-square&logo=github&logoColor=FF6B00" alt="Featured project"/></a>
 
 <br/><br/>
 
@@ -28,6 +28,7 @@ I'm interested in software development, networking, and how useful tools are des
 
 | Project | What it does | Status |
 |---|---|---|
+| [CREATOR](https://github.com/creator-69/creater) | Local-first marketing analytics workspace with SEO CSV analysis, campaign tracking, and saved reports | MVP |
 | [RomanToInteger](https://github.com/creator-69/RomanToInteger) | Python solution that converts Roman numeral strings using a lookup table and two-character subtractive pairs such as IV and IX | Learning exercise |
 | [TO_DO_list](https://github.com/creator-69/TO_DO_list) | Python terminal app to add, list, and delete tasks using a menu-driven loop and an in-memory list | Learning exercise |
 | [book-library](https://github.com/creator-69/book-library) | Python OOP exercise with book and user classes plus a library class for adding, borrowing, and returning books | Learning exercise |
@@ -72,4 +73,3 @@ I'm interested in software development, networking, and how useful tools are des
 <a href="https://github.com/creator-69?tab=repositories">VIEW ALL REPOSITORIES ↗</a>
 
 </div>
-
